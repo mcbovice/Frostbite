@@ -1,0 +1,2555 @@
+﻿[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: My Pasword: katia70374302
+[ INFO   ]: The password change web page is being used
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: My Pasword: katia70374302
+[ INFO   ]: The password change web page is being used
+[ INFO   ]: My Pasword: katia70374302
+[ INFO   ]: The password change web page is being used
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Guild Shop: gm
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ INFO   ]: The user Sr Informatico is discounted 10000 thousand of cash for the purchase of guild coins.
+[ INFO   ]: The GM guild successfully won a new currency.
+[ INFO   ]: Guild Shop: gm
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ INFO   ]: The user Sr Informatico is discounted 10000 thousand of cash for the purchase of guild coins.
+[ INFO   ]: The GM guild successfully won a new currency.
+[ INFO   ]: Guild Shop: gm
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: My Pasword: katia70374302
+[ INFO   ]: The password change web page is being used
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ INFO   ]: My Pasword: katia70374302
+[ INFO   ]: The password change web page is being used
+[ INFO   ]: My Pasword: katia70374302
+[ INFO   ]: The password change web page is being used
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ INFO   ]: My Pasword: katia70374302
+[ INFO   ]: The password change web page is being used
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [*Delicia*]
+[ INFO   ]: It has just added a point of view to the user: *Delicia*
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: ScreenShot: [3zs3y5ca]
+[ LOG    ]: ScreenShot: [3zs3y5ca]
+[ LOG    ]: ScreenShot: [3zs3y5ca]
+[ LOG    ]: ScreenShot: [3kr1xhfb]
+[ LOG    ]: ScreenShot: [3kr1xhfb]
+[ LOG    ]: ScreenShot: [3kr1xhfb]
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'fghfdg' m
+[ ERROR  ]: Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (C:\softbound\softbound\Cliente\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.send (C:\softbound\softbound\Cliente\node_modules\express\lib\response.js:170:12)
+    at C:\softbound\softbound\Cliente\web\controllers\index.js:599:53
+    at tryCallOne (C:\softbound\softbound\Cliente\node_modules\promise\lib\core.js:37:12)
+    at C:\softbound\softbound\Cliente\node_modules\promise\lib\core.js:123:15
+    at flush (C:\softbound\softbound\Cliente\node_modules\asap\raw.js:50:29)
+    at _combinedTickCallback (internal/process/next_tick.js:132:7)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'gfhdfdg' m
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'Dev' 0
+[ LOG    ]: user: [*Delicia*]
+[ INFO   ]: It has just added a point of view to the user: *Delicia*
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Name:  - ID: 1
+[ INFO   ]: Name:  - ID: 1
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Estrella' 0
+[ LOG    ]: Login: Estrella
+[ LOG    ]: '213sadsad' m
+[ LOG    ]: 'sdfc24234' m
+[ LOG    ]: 'Estrella' 0
+[ LOG    ]: Login: Estrella
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'Panda' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: Login: Dios
+[ LOG    ]: 'AnthonyYT' 0
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'YTAnthony' 0
+[ LOG    ]: 'YTAnthony' 0
+[ LOG    ]: 'YTAnthony' 0
+[ LOG    ]: 'Anthony' m
+[ LOG    ]: 'Anthony' 0
+[ LOG    ]: Login: Anthony
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Jhan' 0
+[ LOG    ]: 'Jhan' m
+[ LOG    ]: '~*Luiss*~' m
+[ LOG    ]: 'Gambites' m
+[ LOG    ]: user: [Anthony]
+[ INFO   ]: It has just added a point of view to the user: Anthony
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Phoenix7' m
+[ LOG    ]: 'RicardoColomo' m
+[ LOG    ]: 'anarquico' m
+[ LOG    ]: 'ColomoPro' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'ILUMINATI98' 0
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: 'StoneCold' 0
+[ LOG    ]: Login: StoneCold
+[ LOG    ]: '5ytytyt' m
+[ LOG    ]: '~*Luiss*~' 0
+[ LOG    ]: '~*Luiss*~' password error 12345678910luiss luissja7894ja
+[ LOG    ]: '~*Luiss*~' 0
+[ LOG    ]: '~*Luiss*~' password error 12345678910luiss loboja7894ja
+[ LOG    ]: '~*Luiss*~' 0
+[ LOG    ]: '~*Luiss*~' password error 12345678910luiss luissja7894ja
+[ LOG    ]: '~*Luiss*~' 0
+[ LOG    ]: '~*Luiss*~' password error 12345678910luiss 968190930luissjja
+[ LOG    ]: 'luiss' m
+[ LOG    ]: '#Mr~Emma*~' m
+[ LOG    ]: '#Mr~Emma*~' f
+[ LOG    ]: '▓Brayan~*' m
+[ LOG    ]: '#Mr~Violeta*~' f
+[ LOG    ]: 'Sr.UnLimited' m
+[ ERROR  ]: Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (C:\softbound\softbound\Cliente\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.send (C:\softbound\softbound\Cliente\node_modules\express\lib\response.js:170:12)
+    at C:\softbound\softbound\Cliente\web\controllers\index.js:599:53
+    at tryCallOne (C:\softbound\softbound\Cliente\node_modules\promise\lib\core.js:37:12)
+    at C:\softbound\softbound\Cliente\node_modules\promise\lib\core.js:123:15
+    at flush (C:\softbound\softbound\Cliente\node_modules\asap\raw.js:50:29)
+    at _combinedTickCallback (internal/process/next_tick.js:132:7)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+[ LOG    ]: '~ICuCa4e' m
+[ ERROR  ]: Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (C:\softbound\softbound\Cliente\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.send (C:\softbound\softbound\Cliente\node_modules\express\lib\response.js:170:12)
+    at C:\softbound\softbound\Cliente\web\controllers\index.js:599:53
+    at tryCallOne (C:\softbound\softbound\Cliente\node_modules\promise\lib\core.js:37:12)
+    at C:\softbound\softbound\Cliente\node_modules\promise\lib\core.js:123:15
+    at flush (C:\softbound\softbound\Cliente\node_modules\asap\raw.js:50:29)
+    at _combinedTickCallback (internal/process/next_tick.js:132:7)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+[ LOG    ]: 'Sr.UnLimited' 0
+[ LOG    ]: 'Sr.UnLimited' password error srunlimited unlimited
+[ LOG    ]: 'evEr10' m
+[ ERROR  ]: Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (C:\softbound\softbound\Cliente\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.send (C:\softbound\softbound\Cliente\node_modules\express\lib\response.js:170:12)
+    at C:\softbound\softbound\Cliente\web\controllers\index.js:599:53
+    at tryCallOne (C:\softbound\softbound\Cliente\node_modules\promise\lib\core.js:37:12)
+    at C:\softbound\softbound\Cliente\node_modules\promise\lib\core.js:123:15
+    at flush (C:\softbound\softbound\Cliente\node_modules\asap\raw.js:50:29)
+    at _combinedTickCallback (internal/process/next_tick.js:132:7)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+[ LOG    ]: 'evEr10' 0
+[ LOG    ]: Login: evEr10
+[ LOG    ]: 'evEr10' 0
+[ LOG    ]: Login: evEr10
+[ LOG    ]: '~*Luiss*~' 0
+[ LOG    ]: '~*Luiss*~' password error 12345678910luiss luissja7894ja
+[ LOG    ]: '#Mr~Emma*~' 0
+[ LOG    ]: Login: #Mr~Emma*~
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'anyBOT' m
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: 'Sr Informatico' password error katia70374302 anyi70374302
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: 'Gambites~DB' m
+[ LOG    ]: 'StoneCold' 0
+[ LOG    ]: Login: StoneCold
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ LOG    ]: 'Conejo!' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'Jhoan' 0
+[ LOG    ]: 'Lucas' m
+[ LOG    ]: user: [luiss]
+[ INFO   ]: It has just added a point of view to the user: luiss
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Dios]
+[ INFO   ]: It has just added a point of view to the user: Dios
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anthony]
+[ INFO   ]: It has just added a point of view to the user: Anthony
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'SuperXD' 0
+[ LOG    ]: 'ElMasNaki' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ INFO   ]: POST - Login facebook in test mode number: 1 - Error: [{"message":"API calls from the server require an appsecret_proof argument","type":"GraphMethodException","code":100,"fbtrace_id":"AMnTDlRzL108HL7Po6BlSP2"}]
+[ INFO   ]: POST - Login facebook in test mode number: 1 - Error: [{"message":"API calls from the server require an appsecret_proof argument","type":"GraphMethodException","code":100,"fbtrace_id":"AHmMPUEKE0NJlO8wOWHOHJQ"}]
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ INFO   ]: POST - Login facebook in test mode number: 1 - Error: [{"message":"API calls from the server require an appsecret_proof argument","type":"GraphMethodException","code":100,"fbtrace_id":"AONzhtIvVnqlcgKlnfZXPjs"}]
+[ INFO   ]: POST - Login facebook in test mode number: 1 - Error: [{"message":"API calls from the server require an appsecret_proof argument","type":"GraphMethodException","code":100,"fbtrace_id":"A0F-EgZ__MHcVKQuIQ7CAxY"}]
+[ INFO   ]: POST - Login facebook in test mode number: 1 - Error: [{"message":"API calls from the server require an appsecret_proof argument","type":"GraphMethodException","code":100,"fbtrace_id":"AZ1JPHFz_884vvMGelMFiIQ"}]
+[ INFO   ]: POST - Login facebook in test mode number: 1 - Error: [{"message":"API calls from the server require an appsecret_proof argument","type":"GraphMethodException","code":100,"fbtrace_id":"Axa2BwCUCUjcFPDNyGhIihl"}]
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ INFO   ]: POST - Login facebook in test mode number: 1 - Error: [{"message":"API calls from the server require an appsecret_proof argument","type":"GraphMethodException","code":100,"fbtrace_id":"ATWrXM8olg0k-QW9Xi2b1fh"}]
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'lucass' m
+[ LOG    ]: 'Alidos20' m
+[ LOG    ]: user: [ColomoPro]
+[ INFO   ]: It has just added a point of view to the user: ColomoPro
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'ColomoPro' 0
+[ LOG    ]: Login: ColomoPro
+[ LOG    ]: '~!Haku~' 0
+[ LOG    ]: '~!Haku~' m
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [Estrella]
+[ INFO   ]: It has just added a point of view to the user: Estrella
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'arom:v' 0
+[ LOG    ]: 'arom:v' 0
+[ LOG    ]: 'arom:v' 0
+[ LOG    ]: 'arom:v' 0
+[ LOG    ]: 'arom:V' m
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [arom:V]
+[ INFO   ]: It has just added a point of view to the user: arom:V
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'AnthonyYT' 0
+[ LOG    ]: 'AnthonyYT' password error chudan yev777
+[ LOG    ]: 'AnthonyYT' 0
+[ LOG    ]: 'AnthonyYT' password error chudan chudan00
+[ LOG    ]: 'AnthonyYT' 0
+[ LOG    ]: 'AnthonyYT' password error chudan chudan00
+[ LOG    ]: 'AnthonyYT' 0
+[ LOG    ]: 'AnthonyYT' password error chudan chudan11
+[ LOG    ]: 'YTAnthony' 0
+[ LOG    ]: 'AnthonyYT' 0
+[ LOG    ]: Login: AnthonyYT
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Server Conectado en LOCAL 80
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'hdfgdfgdfhfdghd' m
+[ LOG    ]: 'jhjgjghjdghjdg' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'kjghgjjhk' m
+[ LOG    ]: user: [kjghgjjhk]
+[ INFO   ]: It has just added a point of view to the user: kjghgjjhk
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: delete
+[ INFO   ]: Post ID: 1 - UserID: 44
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anthony Chudan Crisanto]
+[ INFO   ]: It has just added a point of view to the user: Anthony Chudan Crisanto
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'ooboymetaloo' m
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Anghelo' m
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: '~Dankor~' m
+[ INFO   ]: POST - Login facebook in test mode number: 1 - Error: [{"message":"Unsupported get request. Object with ID 'me' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AokqS4dUu-4TJ0Cgym6b4oR"}]
+[ INFO   ]: POST - Login facebook in test mode number: 1 - Error: [{"message":"Unsupported get request. Object with ID 'me' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AL6hxSl-Uh5Bp1ZgYH0dskO"}]
+[ LOG    ]: 'TonyYT' m
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [TonyYT]
+[ INFO   ]: It has just added a point of view to the user: TonyYT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'AnthonyYT ' 0
+[ LOG    ]: 'AnthonyYT ' password error chudan chudan123
+[ LOG    ]: 'TonyYT' 0
+[ LOG    ]: Login: TonyYT
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Astronaut' 0
+[ INFO   ]: post
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Astronaut' m
+[ LOG    ]: user: [Astronaut]
+[ INFO   ]: It has just added a point of view to the user: Astronaut
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'Manuel' m
+[ LOG    ]: 'Chris' f
+[ LOG    ]: 'kion' m
+[ LOG    ]: 'Manuel' 0
+[ LOG    ]: Login: Manuel
+[ LOG    ]: 'EDWIN' 0
+[ LOG    ]: 'SIR EDWIN' 0
+[ LOG    ]: 'SIR-EDWIN' 0
+[ LOG    ]: '-SIR-EDWIN' 0
+[ LOG    ]: '[EDWIN]' 0
+[ LOG    ]: '[Renegado]' 0
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: 'RENEGAGO' m
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Guild Shop: staff
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ INFO   ]: Guild Shop: staff
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ INFO   ]: Guild Shop: staff
+[ INFO   ]: Guild Shop: staff
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ INFO   ]: Guild Shop: staff
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: 'Sr Informatico' password error katia70374302 70374302
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: 'Sr Informatico' password error katia70374302 123456
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: 'Sr Informatico' password error katia70374302 anyi123456
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: 'Sr Informatico' password error katia70374302 anyi123456
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Guild Shop: staff
+[ LOG    ]: 'Chris' 0
+[ LOG    ]: Login: Chris
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: 'RENEGADO' 0
+[ LOG    ]: 'RENEGADO' 0
+[ LOG    ]: 'Edwin' m
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: Login: Edwin
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: Login: Edwin
+[ LOG    ]: 'Renegado' m
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: Login: Renegado
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: Login: Edwin
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'TonyYT' 0
+[ LOG    ]: Login: TonyYT
+[ LOG    ]: 'TonyYT' 0
+[ LOG    ]: Login: TonyYT
+[ LOG    ]: user: [TonyYT]
+[ INFO   ]: It has just added a point of view to the user: TonyYT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Brayan' m
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'kion' 0
+[ LOG    ]: Login: kion
+[ LOG    ]: '~Dankor~' 0
+[ LOG    ]: Login: ~Dankor~
+[ LOG    ]: user: [ooboymetaloo]
+[ INFO   ]: It has just added a point of view to the user: ooboymetaloo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Guild Shop: staff
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ INFO   ]: Guild Shop: staff
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: Searh User: [51]
+[ LOG    ]: user: [Chris]
+[ INFO   ]: It has just added a point of view to the user: Chris
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anthony Chudan Crisanto]
+[ INFO   ]: It has just added a point of view to the user: Anthony Chudan Crisanto
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [ooboymetaloo]
+[ INFO   ]: It has just added a point of view to the user: ooboymetaloo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Dev' 0
+[ LOG    ]: 'Dev' 0
+[ LOG    ]: 'Dev' 0
+[ LOG    ]: 'Dev' m
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Name:  - ID: 1
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: 'Brayan' password error 12345 Brayanmedina
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: 'Brayan' password error 12345 brayanmedina
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: 'Brayan' password error 12345 brayanmedina
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: 'Brayan' password error 12345 brayanmedina
+[ LOG    ]: 'brayan' 0
+[ LOG    ]: 'brayan' password error 12345 brayanmedina
+[ LOG    ]: 'brayan' 0
+[ LOG    ]: 'brayan' password error 12345 brayanmedina
+[ LOG    ]: 'brayan' 0
+[ LOG    ]: 'brayan' password error 12345 brayanmedina
+[ LOG    ]: 'brayan' 0
+[ LOG    ]: 'brayan' password error 12345 brayanmedina22
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: 'Brayan' password error 12345 brayanmedina22
+[ LOG    ]: 'Brayan22' 0
+[ LOG    ]: 'Brayan22' 0
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: Login: Brayan
+[ LOG    ]: 'TonyYT' 0
+[ LOG    ]: Login: TonyYT
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'EL*NENE*MALO' m
+[ LOG    ]: user: [RENEGAGO]
+[ INFO   ]: It has just added a point of view to the user: RENEGAGO
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Christian' m
+[ LOG    ]: user: [Christian]
+[ INFO   ]: It has just added a point of view to the user: Christian
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [ooboymetaloo]
+[ INFO   ]: It has just added a point of view to the user: ooboymetaloo
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Name:  - ID: 1
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Chris' 0
+[ LOG    ]: Login: Chris
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: Login: Renegado
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: Login: Edwin
+[ LOG    ]: user: [*Delicia*]
+[ INFO   ]: It has just added a point of view to the user: *Delicia*
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [ooboymetaloo]
+[ INFO   ]: It has just added a point of view to the user: ooboymetaloo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [#Mr~Violeta*~]
+[ INFO   ]: It has just added a point of view to the user: #Mr~Violeta*~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Manuel]
+[ INFO   ]: It has just added a point of view to the user: Manuel
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: Login: Edwin
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: 'edwin' password error 969262978EJSS 937318818EJSS
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: Login: Edwin
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: Login: Edwin
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: 'Sr Informatico' password error katia70374302 70374302
+[ LOG    ]: 'Sr.Informatico' 0
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: Login: Renegado
+[ LOG    ]: '~Dankor~' 0
+[ LOG    ]: Login: ~Dankor~
+[ LOG    ]: 'Alvarobarbaran' m
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: Login: Renegado
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: Login: Brayan
+[ LOG    ]: 'TonyYT' 0
+[ LOG    ]: Login: TonyYT
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'prueb87' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'prueba88' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: 'Chris' 0
+[ LOG    ]: Login: Chris
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: 'Dios' password error 70116696crch14 onlywannabewithyou
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: 'Dios' password error 70116696crch14 onlywannabewithyou
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: 'Dios' password error 70116696crch14 onlywannabewithyou
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: 'Dios' password error 70116696crch14 todoporti123123
+[ LOG    ]: 'Christian' 0
+[ LOG    ]: Login: Christian
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: Login: Dios
+[ LOG    ]: 'hnhgvbhgdj' m
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: Login: Brayan
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'udghjgdjhf' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'hfghdffg' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'hdghdgfdhfdg' m
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'David' m
+[ LOG    ]: user: [David]
+[ INFO   ]: It has just added a point of view to the user: David
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Rey' m
+[ LOG    ]: 'Arturo' m
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: 'Bizarrap' m
+[ LOG    ]: 'King' m
+[ LOG    ]: 'Jefe' m
+[ LOG    ]: 'Jefa' f
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Jefe' 0
+[ LOG    ]: 'Jefe' password error 123456789 1234567
+[ LOG    ]: 'Jefe' 0
+[ LOG    ]: 'Jefe' password error 123456789 12345678
+[ LOG    ]: 'Jefe' 0
+[ LOG    ]: Login: Jefe
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [hdghdgfdhfdg]
+[ INFO   ]: It has just added a point of view to the user: hdghdgfdhfdg
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [hdghdgfdhfdg]
+[ INFO   ]: It has just added a point of view to the user: hdghdgfdhfdg
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [ooboymetaloo]
+[ INFO   ]: It has just added a point of view to the user: ooboymetaloo
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [ooboymetaloo]
+[ INFO   ]: It has just added a point of view to the user: ooboymetaloo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Jhan]
+[ INFO   ]: It has just added a point of view to the user: Jhan
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [Jhan]
+[ INFO   ]: It has just added a point of view to the user: Jhan
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [Jhan]
+[ INFO   ]: It has just added a point of view to the user: Jhan
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ LOG    ]: user: [Jhan]
+[ INFO   ]: It has just added a point of view to the user: Jhan
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [Jhan]
+[ INFO   ]: It has just added a point of view to the user: Jhan
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ LOG    ]: user: [Jhan]
+[ INFO   ]: It has just added a point of view to the user: Jhan
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ LOG    ]: user: [Jhan]
+[ INFO   ]: It has just added a point of view to the user: Jhan
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Dev' 0
+[ LOG    ]: 'Dev' password error 123asd dev23
+[ LOG    ]: 'Dev' 0
+[ LOG    ]: Login: Dev
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [Jhan]
+[ INFO   ]: It has just added a point of view to the user: Jhan
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ LOG    ]: user: [Jhan]
+[ INFO   ]: It has just added a point of view to the user: Jhan
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ LOG    ]: user: [Jhan]
+[ INFO   ]: It has just added a point of view to the user: Jhan
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'mgjhjgjhgkjgh' m
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: deleteComment
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'kion' 0
+[ LOG    ]: Login: kion
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Luisito' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'Chris' 0
+[ LOG    ]: Login: Chris
+[ LOG    ]: '~Dankor~' 0
+[ LOG    ]: Login: ~Dankor~
+[ INFO   ]: Guild Shop: gm
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ INFO   ]: Guild Shop: staff
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ LOG    ]: ScreenShot: [jkaxe25t]
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: post
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Alvarobarbaran' 0
+[ LOG    ]: Login: Alvarobarbaran
+[ LOG    ]: 'Luisito' 0
+[ LOG    ]: Login: Luisito
+[ LOG    ]: 'ngfddghdfg' m
+[ LOG    ]: user: [Chris]
+[ INFO   ]: It has just added a point of view to the user: Chris
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Chris]
+[ INFO   ]: It has just added a point of view to the user: Chris
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Chris' 0
+[ LOG    ]: Login: Chris
+[ LOG    ]: 'gfdgsdgds' m
+[ LOG    ]: user: [EL*NENE*MALO]
+[ INFO   ]: It has just added a point of view to the user: EL*NENE*MALO
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: '~Dankor~' 0
+[ LOG    ]: Login: ~Dankor~
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'hdfghdgfghgd' m
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Max' m
+[ LOG    ]: user: [Max]
+[ INFO   ]: It has just added a point of view to the user: Max
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Max]
+[ INFO   ]: It has just added a point of view to the user: Max
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Guild Shop: gm
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ INFO   ]: Guild Shop: gm
+[ LOG    ]: 'Gary' m
+[ LOG    ]: user: [~!Haku~]
+[ LOG    ]: user: [Gary]
+[ LOG    ]: user: [Gary]
+[ LOG    ]: 'JuanChOs' f
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: post
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: delete
+[ INFO   ]: Post ID: 7 - UserID: 80
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: Guild: (STFU) - New Update Rank: 1
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: Login: Edwin
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: Login: Renegado
+[ LOG    ]: ScreenShot: [bhfkffpj]
+[ LOG    ]: ScreenShot: [lejc6502]
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [luiss]
+[ INFO   ]: It has just added a point of view to the user: luiss
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [~!Haku~]
+[ INFO   ]: It has just added a point of view to the user: ~!Haku~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Lucas]
+[ INFO   ]: It has just added a point of view to the user: Lucas
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: Login: Brayan
+[ INFO   ]: post
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Arturo' 0
+[ LOG    ]: 'Arturo' password error 123456 12345
+[ LOG    ]: 'Arturo' 0
+[ LOG    ]: Login: Arturo
+[ LOG    ]: '+sasasaSAs' m
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Alvarobarbaran' 0
+[ LOG    ]: 'Alvaro barbaran' 0
+[ LOG    ]: Login: Alvaro barbaran
+[ LOG    ]: 'Pucca' f
+[ LOG    ]: user: [+sasasaSAs]
+[ INFO   ]: It has just added a point of view to the user: +sasasaSAs
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Arturo]
+[ INFO   ]: It has just added a point of view to the user: Arturo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: Searh User: [56]
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [ooboymetaloo]
+[ INFO   ]: It has just added a point of view to the user: ooboymetaloo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: Guild: (STFU) - New Update Rank: 11
+[ LOG    ]: user: [Arturo]
+[ INFO   ]: It has just added a point of view to the user: Arturo
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Guild Shop: fusi☯ᴎ
+[ INFO   ]: Action: BuyTokens *==* Info: undefined
+[ LOG    ]: user: [anyBOT]
+[ INFO   ]: It has just added a point of view to the user: anyBOT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Arturo]
+[ INFO   ]: It has just added a point of view to the user: Arturo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [ColomoPro]
+[ INFO   ]: It has just added a point of view to the user: ColomoPro
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Christian]
+[ INFO   ]: It has just added a point of view to the user: Christian
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Manuel' 0
+[ LOG    ]: Login: Manuel
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: user: [Manuel]
+[ INFO   ]: It has just added a point of view to the user: Manuel
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [AnthonyYT]
+[ INFO   ]: It has just added a point of view to the user: AnthonyYT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'lnferno' m
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: ScreenShot: [0p302lqg]
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Juanchos' 0
+[ LOG    ]: Login: JuanChOs
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: Searh User: [55]
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: 'Juanchos' 0
+[ LOG    ]: Login: JuanChOs
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: 'gfhdfggf' m
+[ LOG    ]: 'Dev' 0
+[ LOG    ]: Login: Dev
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: delete
+[ INFO   ]: Post ID: 9 - UserID: 57
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'nhkhlñjklj' m
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'kljlkjlkjlkj' m
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'POL' m
+[ LOG    ]: user: [POL]
+[ INFO   ]: It has just added a point of view to the user: POL
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [POL]
+[ INFO   ]: It has just added a point of view to the user: POL
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [POL]
+[ INFO   ]: It has just added a point of view to the user: POL
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'ooboymetaloo' 0
+[ LOG    ]: Login: ooboymetaloo
+[ LOG    ]: 'Luisito' 0
+[ LOG    ]: Login: Luisito
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [David]
+[ INFO   ]: It has just added a point of view to the user: David
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Luisito]
+[ INFO   ]: It has just added a point of view to the user: Luisito
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: comment
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'SeñorGato' m
+[ LOG    ]: user: [Señor Gato]
+[ INFO   ]: It has just added a point of view to the user: Señor Gato
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Pucca' 0
+[ LOG    ]: Login: Pucca
+[ LOG    ]: 'Pucca' 0
+[ LOG    ]: Login: Pucca
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ INFO   ]: Guild: Korea - New Update Rank: 0
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: 'qfueeee' m
+[ LOG    ]: 'sdfsdfsfdsfs' f
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: 'fghfghfghfgh' m
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: comment
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: Searh User: [83]
+[ LOG    ]: user: [Pucca]
+[ INFO   ]: It has just added a point of view to the user: Pucca
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: ScreenShot: [f3bbqvli]
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'SDFSFSDFSFSDF' f
+[ INFO   ]: Guild: Korea - New Update Rank: 0
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: ScreenShot: [3cty9skj]
+[ LOG    ]: ScreenShot: [yk8secyj]
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [anyBOT]
+[ INFO   ]: It has just added a point of view to the user: anyBOT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Jsjsksk' m
+[ INFO   ]: Guild: Korea - New Update Rank: 0
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: '~Galactico~' m
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: 'Dev' 0
+[ LOG    ]: Login: Dev
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: delete
+[ INFO   ]: Post ID: 11 - UserID: 57
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Name:  - ID: 1
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [StoneCold]
+[ INFO   ]: It has just added a point of view to the user: StoneCold
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Alvaro barbaran' 0
+[ LOG    ]: Login: Alvaro barbaran
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: Searh User: [55]
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [StoneCold]
+[ INFO   ]: It has just added a point of view to the user: StoneCold
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Pucca]
+[ INFO   ]: It has just added a point of view to the user: Pucca
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: Searh User: [80]
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: Login: Dios
+[ LOG    ]: 'TonyYT' 0
+[ LOG    ]: Login: TonyYT
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: 'Renegado' password error 969262978EJSS 969262978ejss
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: Login: Renegado
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: Login: Edwin
+[ LOG    ]: user: [Edwin]
+[ INFO   ]: It has just added a point of view to the user: Edwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: 'Sr Informatico' password error katia70374302 70374302
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: 'Sr Informatico' password error katia70374302 70374302katia
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: 'Sr Informatico' password error katia70374302 70374302katia
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: 'Sr Informatico' password error katia70374302 70374302Katia
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: Login: Edwin
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: 'Eddie' m
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: '~Dankor~' 0
+[ LOG    ]: Login: ~Dankor~
+[ LOG    ]: '~Dankor~' 0
+[ LOG    ]: Login: ~Dankor~
+[ LOG    ]: 'Luisito' 0
+[ LOG    ]: Login: Luisito
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: Login: Renegado
+[ LOG    ]: '~Dankor~' 0
+[ LOG    ]: Login: ~Dankor~
+[ INFO   ]: Guild: Korea - New Update Rank: 0
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: 'ooboymetaloo' 0
+[ LOG    ]: Login: ooboymetaloo
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'Dev' 0
+[ LOG    ]: Login: Dev
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Manuel]
+[ INFO   ]: It has just added a point of view to the user: Manuel
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Alvaro barbaran]
+[ INFO   ]: It has just added a point of view to the user: Alvaro barbaran
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Arturo]
+[ INFO   ]: It has just added a point of view to the user: Arturo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [ooboymetaloo]
+[ INFO   ]: It has just added a point of view to the user: ooboymetaloo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'alexis' m
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'alexiss' m
+[ LOG    ]: 'Evasivo' m
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: Searh User: [55]
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: Login: Dios
+[ LOG    ]: user: [StoneCold]
+[ INFO   ]: It has just added a point of view to the user: StoneCold
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Malos' m
+[ LOG    ]: 'Goku' m
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [TonyYT]
+[ INFO   ]: It has just added a point of view to the user: TonyYT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [AnthonyYT]
+[ INFO   ]: It has just added a point of view to the user: AnthonyYT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [StoneCold]
+[ INFO   ]: It has just added a point of view to the user: StoneCold
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [XDEdwin]
+[ LOG    ]: 'Woss' m
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Rosely' f
+[ LOG    ]: 'jorge' m
+[ LOG    ]: 'jkjkknknk' m
+[ LOG    ]: 'AuTentiCo' m
+[ LOG    ]: 'Gerson-' m
+[ LOG    ]: 'Cesar' m
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'raul' m
+[ LOG    ]: 'Malos' 0
+[ LOG    ]: Login: Malos
+[ LOG    ]: 'LoloFernandez' m
+[ LOG    ]: 'Hsysys' m
+[ LOG    ]: 'zCezarrrrrrr' 0
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'zCezarrrrrrr' m
+[ LOG    ]: Searh User: [55]
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: Searh User: [83]
+[ LOG    ]: user: [Pucca]
+[ INFO   ]: It has just added a point of view to the user: Pucca
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Castigador' m
+[ LOG    ]: user: [raul]
+[ INFO   ]: It has just added a point of view to the user: raul
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [LoloFernandez]
+[ INFO   ]: It has just added a point of view to the user: LoloFernandez
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [LoloFernandez]
+[ INFO   ]: It has just added a point of view to the user: LoloFernandez
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: post
+[ LOG    ]: user: [raul]
+[ INFO   ]: It has just added a point of view to the user: raul
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'ElBambino' m
+[ INFO   ]: Guild: SexoDB - New Update Rank: 1
+[ INFO   ]: Guild: SexoDB - New Update Rank: 2
+[ LOG    ]: user: [Arturo]
+[ INFO   ]: It has just added a point of view to the user: Arturo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'ElCangry' m
+[ LOG    ]: 'noXed' m
+[ LOG    ]: 'PeterHarold' m
+[ LOG    ]: 'Alesandro' m
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [noXed]
+[ INFO   ]: It has just added a point of view to the user: noXed
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Alesandro' 0
+[ LOG    ]: 'Alesandro' password error simon23 ale23
+[ LOG    ]: 'Luis' m
+[ LOG    ]: 'Renegado' 0
+[ LOG    ]: Login: Renegado
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Guild: SexoDB - New Update Rank: 3
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: Searh User: [55]
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [TonyYT]
+[ INFO   ]: It has just added a point of view to the user: TonyYT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'JoseLuis' m
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: 'edwin' 0
+[ LOG    ]: 'XDedwin' 0
+[ LOG    ]: Login: XDEdwin
+[ LOG    ]: user: [anyBOT]
+[ INFO   ]: It has just added a point of view to the user: anyBOT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [noXed]
+[ INFO   ]: It has just added a point of view to the user: noXed
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [noXed]
+[ INFO   ]: It has just added a point of view to the user: noXed
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Pucca]
+[ INFO   ]: It has just added a point of view to the user: Pucca
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: ScreenShot: [dsltx948]
+[ LOG    ]: user: [JoseLuis]
+[ INFO   ]: It has just added a point of view to the user: JoseLuis
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Name: NiñaBonita - ID: 
+[ INFO   ]: Name: NiñaBonita - ID: 
+[ LOG    ]: '$$Goku$$' m
+[ LOG    ]: 'Rahomir' m
+[ LOG    ]: 'ArnoldVY' m
+[ LOG    ]: 'Elkakas' m
+[ LOG    ]: user: [Elkakas]
+[ INFO   ]: It has just added a point of view to the user: Elkakas
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'rahomir ' 0
+[ LOG    ]: Login: Rahomir
+[ LOG    ]: 'Tati' f
+[ LOG    ]: 'Alvarobarbaran' 0
+[ LOG    ]: 'Alvaro barbaran' 0
+[ LOG    ]: Login: Alvaro barbaran
+[ LOG    ]: 'amut' m
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Pablo' m
+[ LOG    ]: '~Snaider!!' m
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Snaider!' m
+[ INFO   ]: Guild: Return - New Update Rank: 0
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Discension' m
+[ LOG    ]: 'Apolo' m
+[ LOG    ]: 'Thiago' m
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: '~Tito~' m
+[ LOG    ]: user: [Dev]
+[ INFO   ]: It has just added a point of view to the user: Dev
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Junior' m
+[ LOG    ]: user: [Cesar]
+[ INFO   ]: It has just added a point of view to the user: Cesar
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Cesar]
+[ INFO   ]: It has just added a point of view to the user: Cesar
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Cesar]
+[ INFO   ]: It has just added a point of view to the user: Cesar
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: Guild: Return - New Update Rank: 0
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Cesar]
+[ INFO   ]: It has just added a point of view to the user: Cesar
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'xxxtentacion' m
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'ooboymetaloo' 0
+[ LOG    ]: Login: ooboymetaloo
+[ LOG    ]: 'DN' m
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Locotron' 0
+[ LOG    ]: 'Locotron' m
+[ LOG    ]: user: [Locotron]
+[ INFO   ]: It has just added a point of view to the user: Locotron
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Locotron]
+[ INFO   ]: It has just added a point of view to the user: Locotron
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: 'Dios' password error 70116696crch14 123456
+[ LOG    ]: 'Jorge' 0
+[ LOG    ]: 'Jorge' password error 5672829 123456
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Cesar]
+[ INFO   ]: It has just added a point of view to the user: Cesar
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Cesar]
+[ INFO   ]: It has just added a point of view to the user: Cesar
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [AnthonyYT]
+[ INFO   ]: It has just added a point of view to the user: AnthonyYT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'noXed' 0
+[ LOG    ]: Login: noXed
+[ LOG    ]: 'dawdawfaf' m
+[ LOG    ]: 'Teste11' m
+[ LOG    ]: 'Eduardo' m
+[ LOG    ]: 'Joule' m
+[ LOG    ]: user: [#Mr~Violeta*~]
+[ INFO   ]: It has just added a point of view to the user: #Mr~Violeta*~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Eduardo]
+[ INFO   ]: It has just added a point of view to the user: Eduardo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: ScreenShot: [z76bcwyi]
+[ LOG    ]: user: [Joule]
+[ INFO   ]: It has just added a point of view to the user: Joule
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Joule]
+[ INFO   ]: It has just added a point of view to the user: Joule
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Joule]
+[ INFO   ]: It has just added a point of view to the user: Joule
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Joule]
+[ INFO   ]: It has just added a point of view to the user: Joule
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [raul]
+[ INFO   ]: It has just added a point of view to the user: raul
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'RoggerV' m
+[ LOG    ]: user: [Gerson-]
+[ INFO   ]: It has just added a point of view to the user: Gerson-
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [Gerson-]
+[ INFO   ]: It has just added a point of view to the user: Gerson-
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: Searh User: [55]
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Milo' 0
+[ LOG    ]: Login: Milo
+[ INFO   ]: Guild: Return - New Update Rank: 0
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: Searh User: [55]
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Luisito]
+[ INFO   ]: It has just added a point of view to the user: Luisito
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [TonyYT]
+[ INFO   ]: It has just added a point of view to the user: TonyYT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [TonyYT]
+[ INFO   ]: It has just added a point of view to the user: TonyYT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Dios]
+[ INFO   ]: It has just added a point of view to the user: Dios
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [StoneCold]
+[ INFO   ]: It has just added a point of view to the user: StoneCold
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [noXed]
+[ INFO   ]: It has just added a point of view to the user: noXed
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'genexe' m
+[ LOG    ]: 'jory' m
+[ LOG    ]: 'ghjg' m
+[ LOG    ]: 'bvcbb' m
+[ INFO   ]: Guild: Return - New Update Rank: 0
+[ LOG    ]: user: [noXed]
+[ INFO   ]: It has just added a point of view to the user: noXed
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'njghj' m
+[ LOG    ]: 'Uhkhckyv' m
+[ LOG    ]: 'rous17' f
+[ LOG    ]: 'JuniorCruz' m
+[ LOG    ]: user: [JuniorCruz]
+[ INFO   ]: It has just added a point of view to the user: JuniorCruz
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [jory]
+[ INFO   ]: It has just added a point of view to the user: jory
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Alvaro barbaran]
+[ INFO   ]: It has just added a point of view to the user: Alvaro barbaran
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: Searh User: [125]
+[ LOG    ]: user: [Tati]
+[ INFO   ]: It has just added a point of view to the user: Tati
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: Searh User: [55]
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'rahomir ' 0
+[ LOG    ]: Login: Rahomir
+[ LOG    ]: 'rahomir' 0
+[ LOG    ]: Login: Rahomir
+[ LOG    ]: user: [noXed]
+[ INFO   ]: It has just added a point of view to the user: noXed
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Alvaro barbaran]
+[ INFO   ]: It has just added a point of view to the user: Alvaro barbaran
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [raul]
+[ INFO   ]: It has just added a point of view to the user: raul
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [jory]
+[ INFO   ]: It has just added a point of view to the user: jory
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [noXed]
+[ INFO   ]: It has just added a point of view to the user: noXed
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Luisito]
+[ INFO   ]: It has just added a point of view to the user: Luisito
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Arturo]
+[ INFO   ]: It has just added a point of view to the user: Arturo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [raul]
+[ INFO   ]: It has just added a point of view to the user: raul
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: '¡Andrey' m
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: Login: Dios
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: 'Adrian' m
+[ LOG    ]: user: [Eddy Renato Casós Gerónimo]
+[ INFO   ]: It has just added a point of view to the user: Eddy Renato Casós Gerónimo
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [raul]
+[ INFO   ]: It has just added a point of view to the user: raul
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Dev' 0
+[ LOG    ]: Login: Dev
+[ LOG    ]: user: [Anghelo]
+[ INFO   ]: It has just added a point of view to the user: Anghelo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Sebastian' m
+[ LOG    ]: user: [$$Goku$$]
+[ INFO   ]: It has just added a point of view to the user: $$Goku$$
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Juan' m
+[ LOG    ]: 'Sr Informatico' 0
+[ LOG    ]: Login: Sr Informatico
+[ LOG    ]: 'ggggggggggggg' m
+[ LOG    ]: 'Ryuk' m
+[ LOG    ]: user: [Ryuk]
+[ INFO   ]: It has just added a point of view to the user: Ryuk
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Afrodisiaco' m
+[ LOG    ]: 'Jory' 0
+[ LOG    ]: Login: jory
+[ INFO   ]: Guild: Stars™ - New Update Rank: 0
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ DEBUG  ]: Error, no posts were found
+[ INFO   ]: post
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Bot' m
+[ LOG    ]: user: [Bot]
+[ INFO   ]: It has just added a point of view to the user: Bot
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'New' m
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [New]
+[ INFO   ]: It has just added a point of view to the user: New
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Gary]
+[ INFO   ]: It has just added a point of view to the user: Gary
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: 'sdfsdfsdfdf' m
+[ LOG    ]: 'Gary' 0
+[ LOG    ]: Login: Gary
+[ LOG    ]: user: [Paco]
+[ INFO   ]: It has just added a point of view to the user: Paco
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Señor GatO' 0
+[ LOG    ]: Login: Señor Gato
+[ LOG    ]: 'Paco' 0
+[ LOG    ]: Login: Paco
+[ LOG    ]: 'Pucca' 0
+[ LOG    ]: Login: Pucca
+[ LOG    ]: 'Paco' 0
+[ LOG    ]: Login: Paco
+[ LOG    ]: 'JuniorCruz' 0
+[ LOG    ]: Login: JuniorCruz
+[ LOG    ]: user: [Paco]
+[ INFO   ]: It has just added a point of view to the user: Paco
+[ INFO   ]: Guild: Korea - New Update Rank: 1
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Alvaro barbaran]
+[ INFO   ]: It has just added a point of view to the user: Alvaro barbaran
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Alvaro barbaran]
+[ INFO   ]: It has just added a point of view to the user: Alvaro barbaran
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Dios]
+[ INFO   ]: It has just added a point of view to the user: Dios
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [~Dankor~]
+[ INFO   ]: It has just added a point of view to the user: ~Dankor~
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [TonyYT]
+[ INFO   ]: It has just added a point of view to the user: TonyYT
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [StoneCold]
+[ INFO   ]: It has just added a point of view to the user: StoneCold
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: '*JosepCM*' m
+[ LOG    ]: 'PhyXiuS' m
+[ LOG    ]: 'Dios' 0
+[ LOG    ]: Login: Dios
+[ LOG    ]: 'raul' 0
+[ LOG    ]: Login: raul
+[ LOG    ]: user: [Paco]
+[ INFO   ]: It has just added a point of view to the user: Paco
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [jory]
+[ INFO   ]: It has just added a point of view to the user: jory
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Paco]
+[ INFO   ]: It has just added a point of view to the user: Paco
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Victorlexx' m
+[ LOG    ]: user: [Victorlexx]
+[ INFO   ]: It has just added a point of view to the user: Victorlexx
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Brayan]
+[ INFO   ]: It has just added a point of view to the user: Brayan
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Malos' 0
+[ LOG    ]: Login: Malos
+[ LOG    ]: 'Dark' m
+[ LOG    ]: 'BrutaL' m
+[ LOG    ]: user: [XDEdwin]
+[ INFO   ]: It has just added a point of view to the user: XDEdwin
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Discension]
+[ INFO   ]: It has just added a point of view to the user: Discension
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: '~NERO~' m
+[ LOG    ]: 'Dwuue' m
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: 'Brayan' password error 12345 123456
+[ LOG    ]: 'Brayan' 0
+[ LOG    ]: Login: Brayan
+[ LOG    ]: user: [jory]
+[ INFO   ]: It has just added a point of view to the user: jory
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [jory]
+[ INFO   ]: It has just added a point of view to the user: jory
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'ReyDemonio' m
+[ LOG    ]: 'Meliodas' m
+[ LOG    ]: 'Estarossa' m
+[ LOG    ]: 'Zeldris' m
+[ LOG    ]: 'Ban' m
+[ LOG    ]: 'Escanor' m
+[ LOG    ]: '*JosepCM*' 0
+[ LOG    ]: Login: *JosepCM*
+[ LOG    ]: 'David' 0
+[ LOG    ]: Login: David
+[ LOG    ]: 'Arturo' 0
+[ LOG    ]: Login: Arturo
+[ LOG    ]: 'rahomir ' 0
+[ LOG    ]: Login: Rahomir
+[ LOG    ]: 'pouassa' m
+[ LOG    ]: user: [Afrodisiaco]
+[ INFO   ]: It has just added a point of view to the user: Afrodisiaco
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [*JosepCM*]
+[ INFO   ]: It has just added a point of view to the user: *JosepCM*
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Alvaro barbaran]
+[ INFO   ]: It has just added a point of view to the user: Alvaro barbaran
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [*JosepCM*]
+[ INFO   ]: It has just added a point of view to the user: *JosepCM*
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Sr Informatico]
+[ INFO   ]: It has just added a point of view to the user: Sr Informatico
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [*JosepCM*]
+[ INFO   ]: It has just added a point of view to the user: *JosepCM*
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [*JosepCM*]
+[ INFO   ]: It has just added a point of view to the user: *JosepCM*
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [JuniorCruz]
+[ INFO   ]: It has just added a point of view to the user: JuniorCruz
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: 'Meliodas' 0
+[ LOG    ]: 'Meliodas' password error brayan25 12345
+[ LOG    ]: 'Meliodas' 0
+[ LOG    ]: 'Meliodas' password error brayan25 12345
+[ LOG    ]: user: [Arturo]
+[ INFO   ]: It has just added a point of view to the user: Arturo
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Ban]
+[ INFO   ]: It has just added a point of view to the user: Ban
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [raul]
+[ INFO   ]: It has just added a point of view to the user: raul
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ INFO   ]: delete
+[ INFO   ]: Post ID: 12 - UserID: 55
+[ LOG    ]: user: [Renegado]
+[ INFO   ]: It has just added a point of view to the user: Renegado
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: '~Dankor~' 0
+[ LOG    ]: Login: ~Dankor~
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: user: [Manuel]
+[ INFO   ]: It has just added a point of view to the user: Manuel
+[ DEBUG  ]: Error, no posts were found
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: user: [Manuel]
+[ INFO   ]: It has just added a point of view to the user: Manuel
+[ DEBUG  ]: Error, no posts were found
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Paco]
+[ INFO   ]: It has just added a point of view to the user: Paco
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Paco]
+[ INFO   ]: It has just added a point of view to the user: Paco
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Malos' 0
+[ LOG    ]: Login: Malos
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: user: [Malos]
+[ INFO   ]: It has just added a point of view to the user: Malos
+[ INFO   ]: Publications found, sending confirmation message
+[ INFO   ]: Loading posts
+[ LOG    ]: 'Anghelo' 0
+[ LOG    ]: Login: Anghelo
+[ LOG    ]: 'Chris' 0
+[ LOG    ]: Login: Chris
+[ LOG    ]: 'Chris' 0
+[ LOG    ]: Login: Chris
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'zxczxc' 0
+[ LOG    ]: 'Sr.Informatico' 0
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ LOG    ]: 'Sr.Informatico' 0
+[ LOG    ]: 'LaJefa' 0
+[ LOG    ]: Login: LaJefa
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 444
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 3000
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 3000
+[ ERROR  ]: Error: Field 'banned' doesn't have a default value
+    at PromisePoolConnection.PromiseConnection.query (C:\softbound\softbound\Cliente\node_modules\mysql2\promise.js:89:20)
+    at C:\softbound\softbound\Cliente\Model\index.js:2331:22
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[ ERROR  ]: Error: Field 'banned' doesn't have a default value
+    at PromisePoolConnection.PromiseConnection.query (C:\softbound\softbound\Cliente\node_modules\mysql2\promise.js:89:20)
+    at C:\softbound\softbound\Cliente\Model\index.js:2331:22
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[ ERROR  ]: Error: Field 'prixw' doesn't have a default value
+    at PromisePoolConnection.PromiseConnection.query (C:\softbound\softbound\Cliente\node_modules\mysql2\promise.js:89:20)
+    at C:\softbound\softbound\Cliente\Model\index.js:2331:22
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[ ERROR  ]: Error: Field 'probability' doesn't have a default value
+    at PromisePoolConnection.PromiseConnection.query (C:\softbound\softbound\Cliente\node_modules\mysql2\promise.js:89:20)
+    at C:\softbound\softbound\Cliente\Model\index.js:2331:22
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[ ERROR  ]: Error: Field 'block_friend' doesn't have a default value
+    at PromisePoolConnection.PromiseConnection.query (C:\softbound\softbound\Cliente\node_modules\mysql2\promise.js:89:20)
+    at C:\softbound\softbound\Cliente\Model\index.js:2331:22
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[ ERROR  ]: Error: Field 'CashCharger' doesn't have a default value
+    at PromisePoolConnection.PromiseConnection.query (C:\softbound\softbound\Cliente\node_modules\mysql2\promise.js:89:20)
+    at C:\softbound\softbound\Cliente\Model\index.js:2331:22
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[ ERROR  ]: Error: Field 'ranking_semanal' doesn't have a default value
+    at PromisePoolConnection.PromiseConnection.query (C:\softbound\softbound\Cliente\node_modules\mysql2\promise.js:89:20)
+    at C:\softbound\softbound\Cliente\Model\index.js:2331:22
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[ LOG    ]: 'dqwqwqwq' m
+[ LOG    ]: 'lnfern0' m
+[ LOG    ]: 'qwqwdqwdwdq' m
+[ LOG    ]: 'qwdqwqdwqw' m
+[ LOG    ]: 'qwdwqdkqwkqwl' m
+[ LOG    ]: 'qwdwjklkldqwjk' m
+[ LOG    ]: 'qwdqwqwqw' m
+[ LOG    ]: 'jlkqlwkjkdqwljl' m
+[ LOG    ]: 'qwdqqdqwdqww' m
+[ LOG    ]: 'qwdqwdqwd' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 3000
+[ LOG    ]: 'sdffd' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 3000
+[ LOG    ]: 'dfdsfs' m
+[ NORMAL ]: MYSQL Connect!
+[ NORMAL ]: Listening on LOCAL 3000
+[ LOG    ]: '123123' m
+[ LOG    ]: 'sdfsdf' m
+[ LOG    ]: '123' m
+[ LOG    ]: '4234234' m
+[ LOG    ]: '1234' m

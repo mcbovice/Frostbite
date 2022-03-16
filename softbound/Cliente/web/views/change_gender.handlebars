@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="referrer" content="same-origin">
+        <title>Change Gender - SharkGun</title>
+        <script src="/cdn-cgi/apps/head/iR8OSjNSfwcexYD8YdkF6QmafNg.js"></script>
+        <script src="/static/js/jquery-2.1.4.min.js"></script>
+        <script src="/static/js/QTransform.js"></script>
+        <script src="/static/js/Filter.js?7"></script>
+        <link rel="stylesheet" href="/static/DragonBook/DragonBook.min.css?23"/>
+        <script src="/static/DragonBook/DragonBook.min.js?53"></script>
+        <meta name="viewport" content="width=device-width">
+        <style>
+            html {
+                height: 100%;
+            }
+
+            body {
+                background: #3364a6 url('/static/images/aqua_bg.jpg') no-repeat center center fixed;
+                background-size: cover;
+                -webkit-text-size-adjust: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="fb-root"></div>
+        <div id="titleTable" class="blackShadow">
+            <div id="titleTableLeft" class="cell">
+                <span id="icon"></span>
+                <span id="titleText">
+                    <a href="/">SharkGun</a>
+                    > Change Gender
+                </span>
+            </div>
+            <div id="titleTableRight" class="cell right">
+                {{#if login}}
+                <a href="/user/{{login_id}}">{{login_id}}</a> | 
+                <a href="/settings">Settings</a> | 
+                <a href="/logout?next=/user/{{login_id}}">Logout</a>
+                {{else}}
+                <a href="/login?next=/user/{{game_id}}">Login</a>
+                {{/if}}
+            </div>
+        </div>
+        <div id="body">
+            <style>
+                #mainBox {
+                    width: 850px;
+                    margin: 0 auto;
+                    /*background-color: rgba(255,255,255,0.5);*/
+                }
+
+                .boxTitle {
+                    color: #6a7480;
+                    height: 36px;
+                    /*background: #f6f7f8;*/
+                    border-bottom: 1px solid #e9eaed;
+                    font-size: 15px;
+                    font-weight: 700;
+                    line-height: 38px;
+                    padding-left: 15px;
+                    background-color: rgba(255,255,255,0.5);
+                    /*margin-bottom: 15px;*/
+                }
+
+                .Box {
+                    border: 1px solid #dde;
+                    background-color: rgba(255,255,255,0.5);
+                    margin-bottom: 15px;
+                    border-radius: 3px;
+                    /*padding-bottom: 15px;*/
+                    color: #000;
+                }
+
+                .boxBody {
+                    padding: 15px;
+                    color: #37404e;
+                    text-align: left;
+                }
+
+                table {
+                    /*color: white;*/
+                    /*background: rgba(0,0,0,0.5);*/
+                    width: 100%;
+                }
+
+                td {
+                    padding: 3px;
+                }
+
+                a {
+                    color: inherit;
+                }
+
+                a:hover {
+                    background-color: rgba(255,255,255,0.5);
+                    text-decoration: underline;
+                }
+
+                input {
+                    width: 400px;
+                }
+
+                @media (max-width: 900px) {
+                    #mainBox {
+                        width: 500px;
+                    }
+
+                    .boxBody {
+                        font-size: 12px;
+                    }
+
+                    input {
+                        width: 250px;
+                    }
+                }
+
+                .PriceCash {
+                    color: yellow;
+                }
+
+                .Female {
+                    color: hotpink;
+                }
+
+                .Male {
+                    color: deepskyblue;
+                }
+
+                .ES {
+                    display: none;
+                }
+
+                output {
+                    color: red;
+                }
+            </style>
+            <div id="mainBox">
+                <div class="Box">
+                    <div class="boxTitle T">Change Gender</div>
+                    <div class="boxBody">
+                        <span class="T">Current Gender</span>
+                        :
+<span class="Male blackShadow T">Male</span>
+                        <br>
+                        <br>
+                        <span class="T">Price to change gender</span>
+                        : <span class="PriceCash blackShadow">30,000 Cash</span>
+                        <br>
+                        <br>
+                        <form method="post">
+                            <input type='hidden' name='csrfmiddlewaretoken' value='nrdKfqpQ1Koumw19qtS3PDWGeHqzRg8UyO7IvrPUkt1MDq5vBPtMy6U6T4bf8oCI'/>
+                            <button name="action" value="ChangeGenderToF" style="font-size: 15px">
+                                <span class="T">Change Gender to</span>
+                                <span class="T Female blackShadow">Female</span>
+                            </button>
+                        </form>
+                        <output class="blackShadow">
+                            <p>{{respt}}</p>
+                        </output>
+                        <br>
+                        <br>
+                        <br>
+                        <div class="EN">
+                            * <b>Note:</b>
+                            After changing gender you will not be able to use any of the gender specific avatars that you have of the previous gender.<br>
+                            If you want to change some of your avatars to your new gender (for example "Invisible [Head Male]"):<br>
+                            First change gender with this page and then send a list to a GM of the avatars that you want to change.<br>
+                            The price is 2500 cash for each item on your list, make sure you have enough cash in your account.<br>The original avatars will not be deleted, in case you will even change gender back to your previous gender you will still have all your avatars.
+
+                        </div>
+                        <div class="ES">
+                            * <b>Nota:</b>
+                            Después de cambiar el género, no podrás usar ninguno de los avatares de específico género que tienes del género anterior.<br>
+                            Si quieres cambiar algunos de tus avatares al nuevo género (por ejemplo "Invisible [Head Male]"):<br>
+                            Primero debes de cambiar de género en esta página y luego enviar la lista de los avatares que quieres cambiar de género a un GM.<br>
+                            El precio es 2500 cash por cada item que tengas en tu lista, asegurarse de tener suficiente cash en la cuenta.<br>Los avatares originales no serán eliminados, en caso vuelvas a cambiar de género de vuelta al género anterior, aún tendrás todos tus avatares.
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <script>
+                function GetLanguage() {
+                    if (localStorage.myLang == 'es' || localStorage.lang == '0')
+                        return 'es'
+                    var l = navigator.language || navigator.userLanguage
+                    if (l.indexOf('es') == 0)
+                        return 'es'
+                    else
+                        return 'en'
+                }
+                var lang = GetLanguage()
+
+                var TRANSLATE = {
+                    'Change Gender': 'Cambio de Género',
+                    'Current Gender': 'Género Actual',
+                    'Price to change gender': 'Precio para cambio de género',
+                    'Female': 'Mujer',
+                    'Male': 'Hombre',
+                    'Change Gender to': 'Cambiar de género a',
+                }
+                function T(s) {
+                    return TRANSLATE[s] || s
+                }
+
+                if (lang == 'es') {
+                    $('.EN').hide()
+                    $('.ES').show()
+                    $('.T').each(function(a) {
+                        var elem = $(this)
+                        elem.html(T(elem.html()))
+                    })
+                }
+            </script>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html>
+<head lang="es">
+<meta charset="UTF-8">
+<title>Buy Cash - SoftBound</title>
+<script src="/cdn-cgi/apps/head/iR8OSjNSfwcexYD8YdkF6QmafNg.js"></script><script src="/static/js/jquery-2.1.4.min.js"></script>
+<style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: verdana, arial, sans-serif;
+            color: white;
+            background: black url(/static/images/goldbg.jpg) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            text-shadow: -1px 0 2px black, 0 1px 2px black, 1px 0 2px black, 0 -1px 2px black;
+            filter: progid:DXImageTransform.Microsoft.Glow(Strength=1, Color=#000000);
+            font-size: 18px;
+            -webkit-text-size-adjust: 100%;
+        }
+        a {
+            color: #f85;
+        }
+        table {
+            width: 100%;
+        }
+        .formTable {
+            border: 5px solid #ff0;
+            background: rgba(0, 0, 0, 0.25);
+            border-radius: 10px;
+        }
+        .center {
+            text-align: center;
+        }
+
+        .span_rank {
+            display: inline-block;
+            vertical-align: middle; /* new 24/8/2015 move to TextToEmo class if makes problems with other cases */
+        }
+        .rank {
+            background-image: url(/static/images/themes/classic/ranks2.png?2);
+            background-repeat:no-repeat;
+            width: 25px;
+            height: 15px;
+        }
+        .rank0  {background-position:      0 -723px; }
+        .rank1  {background-position:  -26px -723px; }
+        .rank2  {background-position:  -52px -723px; }
+        .rank3  {background-position:  -78px -723px; }
+        .rank4  {background-position: -104px -723px; }
+        .rank5  {background-position: -130px -723px; }
+        .rank6  {background-position: -156px -723px; }
+        .rank7  {background-position: -182px -723px; }
+        .rank8  {background-position: -208px -723px; }
+        .rank9  {background-position: -234px -723px; }
+        .rank10 {background-position: -260px -723px; }
+        .rank11 {background-position: -286px -723px; }
+        .rank12 {background-position: -312px -723px; }
+        .rank13 {background-position:      0 -739px; }
+        .rank14 {background-position:  -26px -739px; }
+        .rank15 {background-position:  -52px -739px; }
+        .rank16 {background-position:  -78px -739px; }
+        .rank17 {background-position: -104px -739px; }
+        .rank18 {background-position: -130px -739px; }
+        .rank19 {background-position: -156px -739px; }
+        .rank20 {background-position: -182px -739px; }
+        .rank21 {background-position: 0 0; background-image: url(/static/images/ranks2.png) !important;} /* diamond+ */
+        .rank22 {background-position: -208px -739px; } /* blue dragon */
+        .rank23 {background-position: -234px -739px; } /* red dragon */
+        .rank24 {background-position: -260px -739px; } /* silver dragon */
+        .rank25 {background-position: -312px -739px; } /* unknown [?] */
+        .rank26 {background-position: -286px -739px; } /* pro gm */
+        .rank27 {background-position: -26px 0; background-image: url(/static/images/ranks2.png) !important;} /* new gm */
+        .rank28 {background-position: -52px 0; background-image: url(/static/images/ranks2.png) !important;} /* bronze */
+        .rank29 {background-position: -78px 0; background-image: url(/static/images/ranks2.png) !important;} /* silver */
+        .rank30 {background-position: -104px 0; background-image: url(/static/images/ranks2.png) !important;} /* gold */
+        .rank31 {background-position: -130px 0; background-image: url(/static/images/ranks2.png) !important;} /* vip */
+
+        /* fix the form */
+        ul {/*display: inline-block;*/ margin:0}
+        li {/*display: inline-block;*/ margin:0}
+        #id_bank li {display: inline-block;}
+        input {color: black;}
+        #id_bank {margin-left: -45px;}
+        #soles_parent{white-space: nowrap}
+        #soles_parent::before{content: 'S/'}
+
+        li{
+            list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAW0lEQVQYV2NkwAT/oUKMyFIoHAYGhv9oquDyyArBilYzQJSGMjAyQCXBFEwhXFFYNcTCVa2oikEKURW1HICorHFAUUySQpB+oqyGhQJRnkFRjORLrMEDV4wtwAFlnCoJTe5EeAAAAABJRU5ErkJggg==);
+        }
+
+        td {
+            vertical-align: top;
+        }
+        .blink {
+            color: yellow;
+            /*border-radius: 10px;*/
+            /*box-shadow: 0 0 8px 8px #ff0;*/
+            animation: blinking_glow_anim 0.5s linear infinite alternate;
+            /*-webkit-animation: blinking_glow_anim 1s ease-in infinite alternate;*/
+        }
+
+        @keyframes blinking_glow_anim
+        {
+            75% {
+                opacity: 1;
+                /*box-shadow: 0 0 0px 0px #ff0;*/
+                /*transform: rotate(0deg);*/
+            }
+            100% {
+                opacity: 0;
+                /*box-shadow: 0 0 8px 8px #ff0;*/
+                /*transform: rotate(10deg);*/
+            }
+        }
+        /*@-webkit-keyframes blinking_glow_anim /!* Safari and Chrome *!/*/
+        /*{*/
+            /*50% {*/
+                /*box-shadow: 0 0 0px 0px #ff0;*/
+                /*-webkit-transform: rotate(0deg);*/
+            /*}*/
+            /*100% {*/
+                /*box-shadow: 0 0 8px 8px #ff0;*/
+                /*-webkit-transform: rotate(10deg);*/
+            /*}*/
+        /*}*/
+        .AgText {
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 15px;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .Voucher {
+            background: rgba(0,100,0,0.8);
+            border: #0f0 solid 3px;
+            margin-top: 4px;
+            padding: 10px;
+            clear: both;
+            font-size: 16px;
+        }
+        .Voucher img {
+            max-height: 180px;
+            max-width: 300px;
+        }
+        .errorlist {
+            color: #f44;
+        }
+
+        .s {
+            text-decoration: line-through;
+        }
+        .priceBox {
+            padding-left: 1px;
+            padding-right:1px;
+            border:solid 1px black;
+            font-size: 17px;
+        }
+        .red {
+            color: red;
+        }
+        .dis {
+            color: #0f0;
+        }
+        .email {
+            width: 250px;
+        }
+        #buttonSendGift {
+            position: absolute;
+            left: 368px;
+            background-image: url(/static/images/gift.png);
+            width: 81px;
+            height: 64px;
+        }
+        #buttonSendGift:hover {
+            /*left: 371px;*/
+            /*background-position: -82px 0;*/
+            /*width: 84px;*/
+            cursor: pointer;
+            transition: box-shadow 0.15s ease-in-out;
+            box-shadow: 0 0 10px 10px #ff0 !important;
+            border-radius: 4px;
+        }
+        #buttonSendGift.f2 {
+            left: 371px;
+            background-position: -82px 0;
+            width: 84px;
+        }
+        #giftsBanner {
+            width: 798px;
+            display: none;
+        }
+        #id_coupon {
+            width: 100px;
+        }
+        #checkCoupon img {
+            vertical-align: bottom;
+            height: 16px;
+        }
+        .glow_button_anim {
+            transition: box-shadow 0.15s ease-in-out;
+        }
+        .glow_button_anim:hover {
+            box-shadow: 0 0 10px 10px #ff0 !important;
+        }
+        .glow_button_anim:active {
+            box-shadow: 0 0 10px 10px #9f9 !important;
+        }
+        .bank2, #id_bank li:nth-child(1) {font-weight: bold;color:orange}
+        .bank1, #id_bank li:nth-child(2) {font-weight: bold;color:greenyellow}
+
+        /* Chrome, Safari, Edge, Opera */
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+          -webkit-appearance: none;
+          margin: 0;
+        }
+        /* Firefox */
+        input[type=number] {
+          -moz-appearance: textfield;
+        }
+        #id_time {width: 122px}
+    </style>
+<script>
+var TIME_SECOND = 1000,
+    TIME_MINUTE = 60*TIME_SECOND,
+    TIME_HOUR = 60*TIME_MINUTE,
+    TIME_DAY = 24*TIME_HOUR,
+    TIME_WEEK = 7*TIME_DAY,
+    TIME_MONTH = 30*TIME_DAY,
+    TIME_YEAR = 365*TIME_DAY
+
+function SetTimerDiv(div, time_left, total_time, callback) {
+    if(typeof div == 'string') div = $(div)
+    var start = get_time()
+    var interval
+    var f = function() {
+        var time_left2 = time_left - (get_time() - start)
+        if(time_left2 < 0) time_left2 = 0
+        div.html(MsToClock(time_left2))
+        if(total_time) div.parent().children('meter').prop('value', time_left2/total_time)
+        if(time_left2 == 0) {
+            clearInterval(interval)
+            if(callback) callback()
+        }
+    }
+    f()
+    interval = setInterval(f,1000)
+    return interval
+}
+function PadTo2Digits(num) {
+    return (num<10)? '0'+num : num
+}
+function SecondsToClock(total_seconds) {
+    var negative = ''
+    if(total_seconds < 0) {
+        negative = '-'
+        total_seconds *= -1
+    }
+
+    var days = Math.floor(total_seconds/86400),
+        hours = Math.floor(total_seconds%86400/3600),
+        minutes = Math.floor(total_seconds%3600/60),
+        seconds = total_seconds % 60
+
+    return negative+((days)?PadTo2Digits(days)+'d ':'')+((days||hours)?PadTo2Digits(hours)+':':'')+((days||hours)?PadTo2Digits(minutes):minutes)+':'+PadTo2Digits(seconds)
+}
+function MsToClock(ms) {
+    return SecondsToClock(Math.round(ms/1000))
+}
+
+var get_time = Date.now
+var GetByID = document.getElementById.bind(document)
+
+$(function() {
+    // fix emails
+    $('.email').each(function(i,e) {
+        e = $(e)
+        var email = e.html().replace(' ','@')
+        e.attr('href','mailto:'+email)
+        e.html(email)
+    })
+
+    $('#voucherForm').on('submit',function() {
+        $('#submitBtn').replaceWith('<img src="/static/images/loaderbar.gif" style="background: white"> Enviando y Comprobando...')
+        return true
+    })
+
+    $('input[type=radio][name=bank]').change(function() {
+        $('#voucherImg').attr('src', '/static/images/voucher_'+(this.value==1?'interbank':'bcp')+'.jpg')
+    })
+
+    var hour = GetByID('id_time')
+    hour.placeholder = hour.placeholder.replace(' o ',' ó ')
+
+    // price change timer
+//            var end = new Date(2016,2,1)
+//            var now = new Date()
+//            if(now < end) {
+//                SetTimerDiv('#timer', end - now, 8 * TIME_DAY)
+//                $('#timer_wrap_end').hide()
+//            } else {
+//                $('#timer_wrap').hide()
+//                $('#timer_wrap_end').show()
+//            }
+
+    if(window.DragonAPI) $('#id_voucher').parent().parent().hide()
+
+    // check coupon button
+    if($('#id_coupon').is(':visible')) {
+        var btn = $('<button id="checkCoupon"><img src="/static/images/star-full-24.png"> Aplicar</button>')
+        btn.insertAfter( $('#id_coupon') ).click( function() {
+            $.get('/checkCoupon?coupon='+$('#id_coupon').val(), function(res) {
+                if(res == 0) res = '<img src="/static/images/no.png"> Código no encontrado'
+                else if(res == -9) res = '<img src="/static/images/no.png"> Código ha expirado'
+                else if(res > 0) {
+                    res = '<img src="/static/images/yes.png"> +'+res+'% Bonus de Cash Aplicado'
+                    $('#id_coupon').attr('readonly',1)
+                }
+                // alert(res)
+                btn.html(res)
+            })
+            return false
+        })
+    }
+
+    $('#buttonSendGift').click(function() {
+        $('#giftsBanner').toggle('fast')
+    })
+
+    setInterval(function() {
+        $('#buttonSendGift').toggleClass('f2')
+    },400)
+})
+
+function TD(unix_time_sec) {
+    var d = new Date(unix_time_sec*1000)
+    var tzs, tz = d.getTimezoneOffset()/-60
+    if(localStorage.myTZ > -13 && localStorage.myTZ < 13) tz = Number(localStorage.myTZ)
+    if(tz<0) tzs = 'GMT'+tz
+    else if(tz>0) tzs = 'GMT+'+tz
+    else tzs = 'UTC'
+    d = new Date(d.getTime() + 3600000*tz)
+    document.write(d.toISOString().replace('T',' ').replace('.000','').replace('Z','')+' ('+tzs+')')
+}
+</script>
+</head>
+<body>
+<div style="margin: auto; width:800px; position: relative;">
+
+
+
+
+
+
+<div class="center">- Sólo Perú <img src="/static/images/peru.svg" width="30" style="border: 1px solid black;vertical-align: sub;"> -</div>
+<table class="center">
+<tr>
+<td class="priceBox" style="background: rgba(200,200,0,0.7); font-size: 18px">
+20 Soles = 60,000 Cash<br>
+30 Soles = 100,000 Cash<br>
+50 Soles = 170,500 Cash<br>
+70 Soles = 250,200 Cash<br>
+</td>
+<td class="priceBox" style="background: rgba(155,155,0,0.7); font-size: 18px;vertical-align: middle;">
+100 Soles = 350,000 Cash<br>
+150 Soles = 380,000 Cash<br>
+200 Soles = 420,000 Cash<br>
+</td>
+</tr>
+</table>
+<br>
+<img id="giftsBanner" src="/static/images/cash_gifts_banner.png">
+<table>
+<tr>
+<td>
+<div class="center">
+<img src="/static/images/bcp.png" style="height:90px">
+</div>
+</td>
+<td>
+<div class="center">
+<div id="buttonSendGift"></div>
+</div>
+</td>
+<td>
+<div class="center">
+<img src="/static/images/interbank.png" style="height:90px">
+</div>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<div class="AgText">
+ <b class="bank2">BCP</b> <span class="blink"><img src="/static/images/new.png" height="20">Nuevo<img src="/static/images/new.png" height="20"></span><br>
+Nº de cuenta: 570-00750320-0-53<br>
+
+</div>
+</td>
+<td>
+<div class="AgText">
+<nobr><b class="bank1">Interbank</b> <span class="blink"><img src="/static/images/new.png" height="20">Nuevo<img src="/static/images/new.png" height="20"></span> </nobr><br>
+Nº de cuenta: - No Disponible - <br>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="AgText">
+<div>Puedes usar <span class="blink">banca móvil</span> o <span class="blink">transferencias por la web</span> sólo en caso de ser la misma entidad bancaria. Ejm: De BCP a BCP por internet.</div>
+
+</div>
+</td>
+</tr>
+</table>
+<br>
+<form id="voucherForm" method="POST" enctype="multipart/form-data" autocomplete="off">
+<input type='hidden' name='csrfmiddlewaretoken' value='ih1lU0g6duPqPPErebWqq7TnK8oFK4Tvg6Po83y0jKB1CQMMoMMfUEfYD0RqdoUr' />
+<div>
+<table class="formTable" id="voucherTable">
+<tr>
+
+<td colspan="2" class="center" style="font-weight: bold">
+<img class="emo" alt="(queen)" src="/static/images/emo/heart.png">
+<img class="emo" alt="(queen)" src="/static/images/emo/queen.png"> Canjea Tu Voucher Por Cash
+<img class="emo" alt="(queen)" src="/static/images/emo/queen.png">
+<img class="emo" alt="(queen)" src="/static/images/emo/balloon.png"> </td>
+<td rowspan="10" style="width: 200px"><img id="voucherImg" src="/static/images/voucher_bcp.jpg"></td>
+</tr>
+<tr>
+<td colspan="2" class="center" style="color: greenyellow">
+Por favor, ingresa los datos tal cual aparecen en tu voucher:
+</td>
+</tr>
+<tr>
+<th>UserID:</th>
+<td><span class="span_rank rank rank{{{rank}}}"></span> {{{id_user}}} - {{{user_name}}}</td>
+</tr>
+<tr><th><label for="id_bank_0">Banco:</label></th><td><ul id="id_bank">
+<li><label for="id_bank_0"><input type="radio" name="bank" value="2" required id="id_bank_0" />
+BCP</label>
+</li>
+<li><label for="id_bank_1"><input type="radio" name="bank" value="1" required id="id_bank_1" />
+Interbank</label>
+</li>
+</ul></td></tr>
+<tr><th><label for="id_date">Fecha:</label></th><td><input type="date" name="date" id="id_date" required placeholder="31/01/2020" class="date" maxlength="10" /></td></tr>
+<tr><th><label for="id_time">Hora:</label></th><td><input type="text" name="time" id="id_time" required placeholder="22:33 o 22:33:44" class="time" maxlength="8" /></td></tr>
+<tr><th><label for="id_operation">Nro.Operación:</label></th><td><input type="number" name="operation" required min="0" max="99999999" maxlength="8" placeholder="0000000" class="operation" id="id_operation" /></td></tr>
+<tr><th><label for="id_soles">Monto:</label></th><td><input type="number" name="soles" step="0.01" required maxlength="7" max="1000" min="1" placeholder="00.00" class="soles" id="id_soles" /></td></tr>
+<tr><th><label for="id_voucher">Voucher (Opcional):</label></th><td><input type="file" name="voucher" id="id_voucher" /><input type="hidden" name="coupon" id="id_coupon" /></td></tr>
+<tr>
+<td colspan="2" class="center">
+<button id="submitBtn" style="padding: 5px 50px 5px 50px">Enviar &nbsp; <img src="/static/images/send.png" style="vertical-align: bottom"></button>
+</td>
+</tr>
+</table>
+</div>
+<script>
+            $('#id_soles').wrap($('<div id="soles_parent">'))
+            if($('#id_email').val()=='') $('#id_email').val('eddyrenatocasos@gmail.com')
+        </script>
+</form>
+<div style="font-size: 15px; text-align: center">
+Para cualquier problema envíanos tu voucher a <a class="email">eddyrenatocasos@gmail.com</a><br>
+Para comprar PINes click <a href="/buypin"><span class="glow_button_anim" style="background: url(/static/images/payment_options.png?5) no-repeat 0 -105px; border-radius:10px; width: 153px; height: 34px;display: inline-block;vertical-align: middle;margin-top: 3px;"></span></a>
+</div>
+</div>
+
+
+
+
+
+
+</body>
+</html>

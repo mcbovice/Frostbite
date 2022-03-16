@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Code - Reseller</title>
+		<script src="/cdn-cgi/apps/head/-CrYjdewzV_aGydZJDcyGB1DItw.js"></script>
+        <script src="/static/js/jquery-2.1.4.min.js"></script>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: verdana, arial, sans-serif;
+                color: white;
+                background: black url(/static/images/goldbg.jpg) no-repeat center center fixed;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+                text-shadow: -1px 0 2px black, 0 1px 2px black, 1px 0 2px black, 0 -1px 2px black;
+                filter: progid:DXImageTransform.Microsoft.Glow(Strength=1, Color=#000000);
+                font-size: 18px;
+                -webkit-text-size-adjust: 100%;
+            }
+
+            a {
+                color: #f85;
+            }
+
+            table {
+                width: 100%;
+            }
+
+            .border {
+                border: 5px solid #ff0;
+            }
+
+            .center {
+                text-align: center;
+            }
+
+            .span_rank {
+                display: inline-block;
+                vertical-align: middle;
+                /* new 24/8/2015 move to TextToEmo class if makes problems with other cases */
+            }
+
+            .rank {
+                background-image: url(/static/images/themes/classic/ranks2.png?2);
+                background-repeat: no-repeat;
+                width: 25px;
+                height: 15px;
+            }
+
+            .rank0 {
+                background-position: 0 -723px;
+            }
+
+            .rank1 {
+                background-position: -26px -723px;
+            }
+
+            .rank2 {
+                background-position: -52px -723px;
+            }
+
+            .rank3 {
+                background-position: -78px -723px;
+            }
+
+            .rank4 {
+                background-position: -104px -723px;
+            }
+
+            .rank5 {
+                background-position: -130px -723px;
+            }
+
+            .rank6 {
+                background-position: -156px -723px;
+            }
+
+            .rank7 {
+                background-position: -182px -723px;
+            }
+
+            .rank8 {
+                background-position: -208px -723px;
+            }
+
+            .rank9 {
+                background-position: -234px -723px;
+            }
+
+            .rank10 {
+                background-position: -260px -723px;
+            }
+
+            .rank11 {
+                background-position: -286px -723px;
+            }
+
+            .rank12 {
+                background-position: -312px -723px;
+            }
+
+            .rank13 {
+                background-position: 0 -739px;
+            }
+
+            .rank14 {
+                background-position: -26px -739px;
+            }
+
+            .rank15 {
+                background-position: -52px -739px;
+            }
+
+            .rank16 {
+                background-position: -78px -739px;
+            }
+
+            .rank17 {
+                background-position: -104px -739px;
+            }
+
+            .rank18 {
+                background-position: -130px -739px;
+            }
+
+            .rank19 {
+                background-position: -156px -739px;
+            }
+
+            .rank20 {
+                background-position: -182px -739px;
+            }
+
+            .rank21 {
+                background-position: 0 0;
+                background-image: url(/static/images/ranks2.png) !important;
+            }
+
+            /* diamond+ */
+            .rank22 {
+                background-position: -208px -739px;
+            }
+
+            /* blue dragon */
+            .rank23 {
+                background-position: -234px -739px;
+            }
+
+            /* red dragon */
+            .rank24 {
+                background-position: -260px -739px;
+            }
+
+            /* silver dragon */
+            .rank25 {
+                background-position: -312px -739px;
+            }
+
+            /* unknown [?] */
+            .rank26 {
+                background-position: -286px -739px;
+            }
+
+            /* pro gm */
+            .rank27 {
+                background-position: -26px 0;
+                background-image: url(/static/images/ranks2.png) !important;
+            }
+
+            /* new gm */
+            .rank28 {
+                background-position: -52px 0;
+                background-image: url(/static/images/ranks2.png) !important;
+            }
+
+            /* bronze */
+            .rank29 {
+                background-position: -78px 0;
+                background-image: url(/static/images/ranks2.png) !important;
+            }
+
+            /* silver */
+            .rank30 {
+                background-position: -104px 0;
+                background-image: url(/static/images/ranks2.png) !important;
+            }
+
+            /* gold */
+            .rank31 {
+                background-position: -130px 0;
+                background-image: url(/static/images/ranks2.png) !important;
+            }
+
+            /* vip */
+            /* fix the form */
+            ul {
+                /*display: inline-block;*/
+                margin: 0
+            }
+
+            li {
+                /*display: inline-block;*/
+                margin: 0
+            }
+
+            #id_bank li {
+                display: inline-block;
+            }
+
+            input {
+                color: black;
+            }
+
+            #id_bank {
+                margin-left: -45px;
+            }
+
+            #soles_parent {
+                white-space: nowrap
+            }
+
+            #soles_parent::before {
+                content: 'S/'
+            }
+
+            li {
+                list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAW0lEQVQYV2NkwAT/oUKMyFIoHAYGhv9oquDyyArBilYzQJSGMjAyQCXBFEwhXFFYNcTCVa2oikEKURW1HICorHFAUUySQpB+oqyGhQJRnkFRjORLrMEDV4wtwAFlnCoJTe5EeAAAAABJRU5ErkJggg==);
+            }
+
+            td {
+                vertical-align: top;
+            }
+
+            .blink {
+                color: orange;
+                /*border-radius: 10px;*/
+                /*box-shadow: 0 0 8px 8px #ff0;*/
+                animation: blinking_glow_anim 0.5s linear infinite alternate;
+                /*-webkit-animation: blinking_glow_anim 1s ease-in infinite alternate;*/
+            }
+
+            @keyframes blinking_glow_anim {
+                75% {
+                    opacity: 1;
+                    /*box-shadow: 0 0 0px 0px #ff0;*/
+                    /*transform: rotate(0deg);*/
+                }
+
+                100% {
+                    opacity: 0;
+                    /*box-shadow: 0 0 8px 8px #ff0;*/
+                    /*transform: rotate(10deg);*/
+                }
+            }
+
+            /*@-webkit-keyframes blinking_glow_anim /!* Safari and Chrome *!/*/
+            /*{*/
+            /*50% {*/
+            /*box-shadow: 0 0 0px 0px #ff0;*/
+            /*-webkit-transform: rotate(0deg);*/
+            /*}*/
+            /*100% {*/
+            /*box-shadow: 0 0 8px 8px #ff0;*/
+            /*-webkit-transform: rotate(10deg);*/
+            /*}*/
+            /*}*/
+            .AgText {
+                background: rgba(0, 0, 0, 0.5);
+                border-radius: 15px;
+                padding: 10px;
+            }
+
+            .Voucher {
+                background: rgba(0,100,0,0.8);
+                border: #0f0 solid 3px;
+                margin-top: 4px;
+                padding: 10px;
+                clear: both;
+                font-size: 16px;
+            }
+
+            .Voucher img {
+                max-height: 180px;
+                max-width: 300px;
+            }
+
+            .errorlist {
+                color: #f44;
+            }
+
+            .s {
+                text-decoration: line-through;
+            }
+
+            .priceBox {
+                padding-left: 1px;
+                padding-right: 1px;
+                border: solid 1px black;
+                font-size: 17px;
+            }
+
+            .red {
+                color: red;
+            }
+
+            .dis {
+                color: #0f0;
+            }
+        </style>
+        <script type="text/javascript">
+            function ajax() {
+                var req = new XMLHttpRequest();
+                req.onreadystatechange = function() {
+                    if (req.readyState == 4 && req.status == 200) {
+                        document.getElementById('chat').innerHTML = req.responseText;
+                    }
+                }
+                req.open('GET', 'chat', true);
+                req.send();
+            }
+            
+            //↓↓↓↓ Codigo Que Refresca La Pagina Por Segundo
+            setInterval(function() {
+                ajax();
+            }, 1000/*1000*/);
+            console.log("%c /===============================================================================================\\ \n |            (:         Chat On Line | Developer By: Junior Cruz (Eber)         :)              | \n +===============================================================================================+ \n", "background:url(https://i.imgur.com/KFXfrgH.jpg); background-size: 100vw 100vh;background-attachment: fixed;color: #3f3");
+        </script>
+        <script type="text/javascript">
+            function post() {
+                $.ajax({
+                    method: "POST",
+                    url: "/cash2",
+                    data: {
+                        date_sms: $("#date_sms").val(),
+                        enviar: $("#btn_send").val()
+                    },
+                    success: function(data) {
+                        console.log("%c | Mensaje: "+$("#msg").val()+" | \n", "background:url(https://i.imgur.com/KFXfrgH.jpg); background-size: 100vw 100vh;background-attachment: fixed;color: #3f3");
+                        $('input[type="text"]').val('');
+                    },
+                }).fail(function(a) {
+                    alert("Fail MSG: " + a );
+                });
+                
+                return false;
+            }
+            function InfoUser() {
+                alert("Informacion del usuaio pronto");
+            }
+        </script>
+    </head>
+    <body>
+        <div style="margin: auto; width:800px">
+            <table class="center">
+			<div class="cash_text">
+			<br>
+                       <center> <b class="AgText"> Actualmente tienes: {{{my_cash}}} de Cash</b></center>
+                    </div>
+					<br>
+                <tr>
+                    <td class="priceBox" style="background: rgba(200,200,0,0.7)">
+                        S/10.00 = 31,000 Cash<br>
+                        S/20.00 = 41,000 Cash<br>
+                        S/30.00 = 51,000 Cash<br>
+                    </td>
+                    <td class="priceBox" style="background: rgba(155,155,0,0.7)">
+                        S/40.00 = 65,500 Cash<br>
+                        S/50.00 = 85,200 Cash<br>
+                        S/60.00 = 95,000 Cash<br>
+                    </td>
+                    <td class="priceBox" style="background: rgba(155,155,0,0.7)">
+                        S/70.00 = 115,000 Cash<br>
+                        S/80.00 = 150,000 Cash<br>
+                        S/90.00 = 190,000 Cash<br>
+                    </td>
+                </tr>
+            </table>
+			<td>
+			<div class="AgText">
+                            <nobr>
+                                <b class="blink"><span class="white"> - Todos los Precios Incluyen S/9.00 de Comisión..!!</b>
+								<br>
+								<b class="blink"><span class="white"> - Apartir de S/30 - Regalos por Recargas.</b>
+                               
+                            </nobr>
+                            
+                        </div>
+						</td>
+            <table>
+                <tr>
+                    <td>
+                        <div class="center">
+                            <img src="/static/images/interbank.png">
+                        </div>
+                        <div class="AgText">
+                            <nobr>
+                                <b class="blink">Sólo Agente</b>
+                                Interbank<b class="blink"> - en todo el Perú</b>
+                            </nobr>
+                            <br>
+                            Nº de cuenta: 898-3162753012<br>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="center">
+                            <img src="/static/images/bcp.png">
+                        </div>
+                        <div class="AgText">
+                            <b class="blink">Sólo Agente</b>
+                            BCP<b class="blink"> - en todo el Perú</b>
+                            <br>
+                            Nº de cuenta: 310-97877183-0-31<br>
+                             </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <div class="AgText">
+                            <div>
+                                <span class="red">NO realizar depósitos</span>
+                                en oficinas de BCP o Interbank o <span class="red">-4000 cash</span>
+                                ! (o agrega a tu recarga S/9.00 por comisión de servicio bancario).
+                            </div>
+                            <div>
+                                Recuerda, puedes usar <span class="blink">banca móvil o transferencias por la web</span>
+                                sólo en caso de ser la misma entidad bancaria. Ejm: De BCP a BCP por internet.
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <form id="voucherForm" method="POST" enctype="multipart/form-data">
+                <input type='hidden' name='csrfmiddlewaretoken' value='J9FtyUwiemIXq3zU4yMV3wKbpsaS7Se3'/>
+                <div>
+                    <table class="border">
+                        <tr>
+                            <td colspan="2" class="center blink" style="font-weight: bold">- Enviar Voucher - </td>
+                            <td rowspan="10" style="width: 200px">
+                                <img id="voucherImg" src="/static/images/voucher_interbank.jpg">
+                            </td>
+							<td rowspan="10" style="width: 200px">
+                                <img id="voucherImg" src="/static/images/voucher_bcp.jpg">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" class="center" style="font-weight: bold">
+                             1 - Una vez tu recarga haya sido realizada correctamente, Te Comunicas con el GM Berny Chavez mediante su pagina oficial, puedes darle CLIP al BOTÓN CONTACTAR para que te redireccione a su PAGINA Oficial <br>2 - Ya estando en su pagina deberás de enviarle un mensaje con tu Nick de Juego, y una Captura del VOUCHER (Comprobante De Pago)<br>3 - Ya estando confirmando todo el GM te contestara el mensaje y deberás de estar conectado a tu cuenta dentro del Juego para que tu recarga de Cash y tu Avatar sea recibido Exitosa mente.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" class="center">
+                                <a href="https://www.facebook.com/GunBoundAdvance/" class="button button3" target="_blank"><b class="blink">Contactame Aqui.!!!</b></a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </form>
+           
+
+        </div>
+    </body>
+</html>
